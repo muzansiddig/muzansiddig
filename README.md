@@ -29,7 +29,7 @@ Keep project descriptions aligned with each repository's current implementation.
 
 ## About Me
 
-I'm a Software Engineering graduate focused on building software that combines **AI capabilities, automation, full-stack engineering, and applied machine learning**. My portfolio spans AI-powered applications, business intelligence concepts, workflow automation, and predictive modeling.
+I'm a Software Engineering  focused on building software that combines **AI capabilities, automation, full-stack engineering, and applied machine learning**. My portfolio spans AI-powered applications, business intelligence concepts, workflow automation, and predictive modeling.
 
 - **AI & automation:** LLM-powered applications, agentic workflows, conversational systems, and API integrations.
 - **Full-stack development:** interactive web interfaces, backend services, REST APIs, authentication, and data persistence.
